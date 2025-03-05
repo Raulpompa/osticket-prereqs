@@ -7,8 +7,9 @@ In this lab, I'll provide a step-by-step guide to installing open source osTicke
 
 
 <h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+IN PROGRESS 
+<!-- I'll be compleating this in the future
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
