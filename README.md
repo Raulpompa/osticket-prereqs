@@ -13,9 +13,12 @@ IN PROGRESS
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Microsoft Azure: For hosting the Windows 10 Virtual Machine.
+- Windows 10: As the operating system for the VM.
+- Internet Information Services (IIS): A web server to host the osTicket application.
+- PHP: For server-side scripting to run osTicket.
+- MySQL: As the database management system to store ticket data.
+- HeidiSQL: A tool for managing and creating MySQL databases.
 
 <h2>Operating Systems Used </h2>
 
@@ -23,11 +26,13 @@ IN PROGRESS
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Account: To create and manage the Windows 10 Virtual Machine.
+- Windows 10 VM: With at least 4 vCPUs and Remote Desktop access enabled.
+- osTicket Installation Files: Including osTicket v1.15.8, PHP, MySQL, PHP Manager, URL Rewrite Module, and HeidiSQL.
+- Internet Information Services (IIS): Enabled with CGI support.
+- PHP 7.3.8: Configured to work with IIS.
+- MySQL 5.5.62: Installed and configured for osTicket.
+- Remote Desktop Client: To connect to the Azure VM.
 
 <h2>Installation Steps</h2>
 
