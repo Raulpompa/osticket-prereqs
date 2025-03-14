@@ -38,22 +38,49 @@ IN PROGRESS
 
 <p>
   <p>Will start by creating a new VM to install osTicket.</p>
-<img src="https://i.imgur.com/cHfxEnu.png" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cHfxEnu.png" alt="osTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p>How to set up your VM.</p> 
+<img src="https://i.imgur.com/OsCV4O0.png" alt="osTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <p>DON'T FORGET TO CHECK THIS BOX!</p>
+<img src="https://i.imgur.com/fD07nO1.png"  alt="osTicket"/>
 </p>
-<br />
+<p>
+  <p>After the VM has been crerated we can open it with it's IP through Remote Desktop.</p>
+<img src="https://i.imgur.com/RJ8UAMX.png" alt="osTicket"/>
+</p>
+<p>
+  <p></p> 
+<img src="https://i.imgur.com/sJPEXHm.png" alt="osTicket"/>
+</p>
+<p>
+  <p></p>
+<img src="https://i.imgur.com/WedLd2r.png"  alt="osTicket"/>
+</p>
+<p>
+  <p>After connecting to the VM, I'll begin by downloading the osTicket zip file and extracting its contents. Next, I'll activate IIS (Internet Information Services) by going to Control Panel > Programs > Turn Windows Features On or Off. I'll then enable Internet Information Services, followed by World Wide Web Services > Application Development Features, and make sure to enable CGI as well.</p>
+<img src="https://i.imgur.com/LMO1zsQ.png" alt="osTicket"/>
+</p>
+<p>
+  <p></p> 
+<img src="" alt="osTicket"/>
+</p>
+<p>
+  <p></p>
+<img src=""  alt="osTicket"/>
+</p>
+<p>
+  <p></p>
+<img src="" alt="osTicket"/>
+</p>
+<p>
+  <p>.</p> 
+<img src="" alt="osTicket"/>
+</p>
+<p>
+  <p></p>
+<img src=""  alt="osTicket"/>
+</p>
