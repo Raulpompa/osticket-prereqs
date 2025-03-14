@@ -209,8 +209,7 @@ IN PROGRESS
 <img src="https://i.imgur.com/EJe6owy.png" alt="osTicket Install"/>
 </p>
 <p>
-  <p></p> 
-<img src="https://i.imgur.com/P05linM.png" alt="osTicket Install"/>
+<img src="https://i.imgur.com/f4fEmZv.png" alt="osTicket Install"/>
 </p>
 <p>
   <p>Click the Add button to add permissions to the file. Select a principal, type "Everyone," then click Check Names and okay. Check all the permissions, then click okay, Apply, and finally okay.</p>
