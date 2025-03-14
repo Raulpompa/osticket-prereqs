@@ -194,7 +194,7 @@ IN PROGRESS
 </p>
 <p>
   <p>Notice the changes.</p>
-<img src="https://i.imgur.com/lFnTGSq.png" alt="osTicket Install"/>
+<img src="https://i.imgur.com/IkWJbk9.png" alt="osTicket Install"/>
 </p>
 <p>
   <p>Next, open File Explorer and navigate to C drive > inetpub > wwwroot > osTicket > include. Find the ost-sampleconfig.php file and remove the "sample" from the filename.</p> 
