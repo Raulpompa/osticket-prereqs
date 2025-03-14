@@ -66,21 +66,57 @@ IN PROGRESS
 </p>
 <p>
   <p></p> 
-<img src="" alt="osTicket"/>
+<img src="https://i.imgur.com/ChpQLeU.png" alt="osTicket"/>
 </p>
 <p>
   <p></p>
-<img src=""  alt="osTicket"/>
+<img src="https://i.imgur.com/ppSIToH.png"  alt="osTicket"/>
 </p>
 <p>
   <p></p>
-<img src="" alt="osTicket"/>
+<img src="https://i.imgur.com/DjiELqd.png" alt="osTicket"/>
 </p>
 <p>
-  <p>.</p> 
-<img src="" alt="osTicket"/>
+  <p>To verify that the web server was installed successfully, I'll enter the loopback IP (127.0.0.1) in a web browser. If everything is set up correctly, the default IIS page should appear.</p> 
+<img src="https://i.imgur.com/ipLV0ZC.png" alt="osTicket"/>
+</p>
+<p>
+  <p>Next, I need to set up PHP Manager for IIS installation.</p>
+<img src="https://i.imgur.com/aSvccSS.png"  alt="osTicket"/>
 </p>
 <p>
   <p></p>
-<img src=""  alt="osTicket"/>
+<img src="https://i.imgur.com/JJ4dSpQ.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p>Download IIS URL Rewrite Module.</p> 
+<img src="https://i.imgur.com/guO5Eeo.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p>After the installations are complete, I'll set up a PHP directory on the C drive by creating a new file and naming it PHP.</p>
+<img src="https://i.imgur.com/491UvPK.png"  alt="osTicket Install"/>
+</p>
+<p>
+  <p>Next, I'll download PHP and unzip the file into the PHP directory I just created.</p>
+<img src="https://i.imgur.com/bd97pcK.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p></p> 
+<img src="https://i.imgur.com/jNfqvEw.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p>I'll now download Microsoft Visual C++</p>
+<img src="https://i.imgur.com/vuMuixB.png"  alt="osTicket Install"/>
+</p>
+<p>
+  <p>Next, I'll download MySQL.</p>
+<img src="https://i.imgur.com/8zBvQh3.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p></p> 
+<img src="https://i.imgur.com/Br0WJ02.png" alt="osTicket Install"/>
+</p>
+<p>
+  <p></p>
+<img src="https://i.imgur.com/fBxoN1b.png"  alt="osTicket Install"/>
 </p>
