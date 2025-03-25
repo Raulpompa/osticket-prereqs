@@ -61,7 +61,7 @@ IN PROGRESS
 <img src="https://i.imgur.com/WedLd2r.png"  alt="osTicket"/>
 </p>
 <p>
-  <p>After connecting to the VM, I'll begin by downloading the osTicket zip file and extracting its contents. Next, I'll activate IIS (Internet Information Services) by going to Control Panel > Programs > Turn Windows Features On or Off. I'll then enable Internet Information Services, followed by World Wide Web Services > Application Development Features, and make sure to enable CGI as well.</p>
+  <p>After connecting to the VM, I'll begin by downloading the osTicket zip file <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD"></a> and extracting its contents. Next, I'll activate IIS (Internet Information Services) by going to Control Panel > Programs > Turn Windows Features On or Off. I'll then enable Internet Information Services, followed by World Wide Web Services > Application Development Features, and make sure to enable CGI as well.</p>
 <img src="https://i.imgur.com/LMO1zsQ.png" alt="osTicket"/>
 </p>
 <p>
