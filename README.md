@@ -28,7 +28,7 @@ IN PROGRESS
 
 - Microsoft Azure Account: To create and manage the Windows 10 Virtual Machine.
 - Windows 10 VM: With at least 4 vCPUs and Remote Desktop access enabled.
-- osTicket Installation Files: Including osTicket v1.15.8, PHP, MySQL, PHP Manager, URL Rewrite Module, and HeidiSQL.
+- osTicket Installation Files <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">(Click here for osTicket Zip File)</a>: Including osTicket v1.15.8, PHP, MySQL, PHP Manager, URL Rewrite Module, and HeidiSQL.
 - Internet Information Services (IIS): Enabled with CGI support.
 - PHP 7.3.8: Configured to work with IIS.
 - MySQL 5.5.62: Installed and configured for osTicket.
@@ -61,7 +61,7 @@ IN PROGRESS
 <img src="https://i.imgur.com/WedLd2r.png"  alt="osTicket"/>
 </p>
 <p>
-  <p>After connecting to the VM, I'll begin by downloading the osTicket zip file <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD"></a> and extracting its contents. Next, I'll activate IIS (Internet Information Services) by going to Control Panel > Programs > Turn Windows Features On or Off. I'll then enable Internet Information Services, followed by World Wide Web Services > Application Development Features, and make sure to enable CGI as well.</p>
+  <p>After connecting to the VM, I'll begin by downloading the <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket zip file</a> and extracting its contents. Next, I'll activate IIS (Internet Information Services) by going to Control Panel > Programs > Turn Windows Features On or Off. I'll then enable Internet Information Services, followed by World Wide Web Services > Application Development Features, and make sure to enable CGI as well.</p>
 <img src="https://i.imgur.com/LMO1zsQ.png" alt="osTicket"/>
 </p>
 <p>
